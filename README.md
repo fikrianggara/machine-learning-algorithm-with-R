@@ -1,10 +1,7 @@
 # machine-learning-algorithm-with-R
+Collection of machine learning algoritm written in R. These codes are made as supplement of academic module in our data mining and knowledge management course.
 
-Kumpulan algoritma machine learning yang diimplementasikan dengan bahasa pemrorgraman R.
-Kode-kode ini dibuat untuk memenuhi penugasan pembuatan modul akademik mata kuliah data mining and knowledge management.
-diharapkan dengan adanya pengelompokan kode yang terpusat dan terstruktur, bisa memudahkan mahasiswa dalam mempelajari dan mengimplementasikan algoritma yang dibutuhkan.
-
-### beberapa algoritma yang diimplementasikan:
+### the machine learning use case and algorithm covering :
  - supervised learning
     - Neural Network
     - Deep Neural Network
